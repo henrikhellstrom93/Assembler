@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33717.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Assembler", "Assembler\Assembler.vcxproj", "{F21CDE4B-EA24-4DB2-B406-7D867CE3FCD7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{096C26D0-1914-491A-B3C9-BDD17DC44CF3}"
+	ProjectSection(SolutionItems) = preProject
+		Assembler\test.hack = Assembler\test.hack
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F21CDE4B-EA24-4DB2-B406-7D867CE3FCD7}.Debug|x64.ActiveCfg = Debug|x64
+		{F21CDE4B-EA24-4DB2-B406-7D867CE3FCD7}.Debug|x64.Build.0 = Debug|x64
+		{F21CDE4B-EA24-4DB2-B406-7D867CE3FCD7}.Debug|x86.ActiveCfg = Debug|Win32
+		{F21CDE4B-EA24-4DB2-B406-7D867CE3FCD7}.Debug|x86.Build.0 = Debug|Win32
+		{F21CDE4B-EA24-4DB2-B406-7D867CE3FCD7}.Release|x64.ActiveCfg = Release|x64
+		{F21CDE4B-EA24-4DB2-B406-7D867CE3FCD7}.Release|x64.Build.0 = Release|x64
+		{F21CDE4B-EA24-4DB2-B406-7D867CE3FCD7}.Release|x86.ActiveCfg = Release|Win32
+		{F21CDE4B-EA24-4DB2-B406-7D867CE3FCD7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0925A93B-317E-4EE4-A275-935E6D4ACBF3}
+	EndGlobalSection
+EndGlobal
